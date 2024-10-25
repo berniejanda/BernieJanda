@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @berniejanda
 - 💻 I am a Cybersecurity Professional
-- 👀 My inetests are in cybersecurity and technology in general
+- 👀 My interests are in cybersecurity and technology in general
 - 📫 You may reach me at bernie.janda@gmail.com
 
 <!---
